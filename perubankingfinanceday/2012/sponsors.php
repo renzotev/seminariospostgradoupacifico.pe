@@ -32,7 +32,7 @@
                 ?>
                 <div class="main-content-wrapper">
                     <div class="expositores">
-                        <h2 class="title">SPONSORS</h2>
+                        <h2 class="title">SPONSORS </h2>
                         <img src="/img/perubankingfinanceday/2012/sponsors.png" alt="">
                     </div>
                 </div>
