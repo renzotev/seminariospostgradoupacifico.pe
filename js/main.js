@@ -47,4 +47,23 @@ $(document).ready(function () {
         
     }
     timmer();
+
+    var slider_videos = function () {
+        $("#thumbs.videos .thumb").on("mouseenter", function(){
+            $(this).addClass("thumb-on");
+        }).on("mouseleave", function(){
+            $(this).removeClass("thumb-on");
+        });
+
+        $("#thumbs.videos .thumb").on("click", function() {
+            var num = $(this).index();
+
+            $("#thumbs .thumb").removeClass("thumb-on");
+            $(this).addClass("thumb-on");
+
+            $("#slider iframe").hide();
+            $("#slider").children("iframe").eq(num).show();
+        });
+    };
+    slider_videos();
 });
