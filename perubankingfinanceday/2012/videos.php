@@ -33,7 +33,7 @@
                 ?>
                 <div class="main-content-wrapper">
                     <div class="padding" style="color:#FFFFFF">
-                        <h2 class="title">PRESENTACIONES</h2>
+                        <h2 class="title">Videos</h2>
                         <div class="presentations">
                             <div id="sliderFrame">
                                 <div id="slider" class="videos">

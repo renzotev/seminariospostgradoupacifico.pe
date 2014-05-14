@@ -49,6 +49,7 @@ ul{margin:0;padding:0;list-style:none}
 .main .content .main-content-wrapper .presentations li p{margin:0;padding:15px 10px 5px 10px}
 .main .content .main-content-wrapper .presentations li figure img{display:block}
 .main .content .main-content-wrapper .main-content{width:610px;padding:20px;position:relative;}
+.main .content .main-content-wrapper .main-content .accordion img{float:left;margin-right:15px}
 .main .content .main-content-wrapper .main-content .accordion .accordion_toggle{padding:10px;margin:0;background:#cec6bb;color:#000;font-weight:normal;border-bottom:1px solid #e0d9ce;position:relative;}
 .main .content .main-content-wrapper .main-content .accordion .accordion_toggle .arrow{border-left:8px solid #cec6bb;border-top:8px solid #f8d861;border-right:8px solid #cec6bb;position:absolute;right:10px;top:15px}
 .main .content .main-content-wrapper .main-content .accordion .accordion_toggle.ui-state-active{background:#a79372;color:#fff;}

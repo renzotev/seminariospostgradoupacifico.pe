@@ -29,19 +29,19 @@
                             Peru Banking & Finance Day 2012
                         </div>
                     </a>
-                    <a href="#" class="large-banner left" num="2">
+                    <a href="expositores" class="large-banner left" num="2">
                         <img src="/img/perubankingfinanceday/2012/expositores.png" alt="Expositores - Peru Banking & Finance Day 2012" title="Expositores - Peru Banking & Finance Day 2012">
                         <div class="title-image">
                             Expositores - Peru Banking & Finance Day 2012
                         </div>
                     </a>
-                    <a href="#" class="large-banner left" num="3">
+                    <a href="presentaciones" class="large-banner left" num="3">
                         <img src="/img/perubankingfinanceday/2012/presentaciones.png" alt="Presentaciones - Peru Banking & Finance Day 2012" title="Presentaciones - Peru Banking & Finance Day 2012">
                         <div class="title-image">
                             Presentaciones - Peru Banking & Finance Day 2012
                         </div>
                     </a>
-                    <a href="#" class="large-banner left" num="4">
+                    <a href="sponsors" class="large-banner left" num="4">
                         <img src="/img/perubankingfinanceday/2012/auspiciadores.png" alt="Sponsors - Peru Banking & Finance Day 2012" title="Sponsors - Peru Banking & Finance Day 2012">
                         <div class="title-image">
                             Sponsors - Peru Banking & Finance Day 2012
@@ -78,28 +78,28 @@
                         <a href="introduccion" class="more">Más info</a>
                     </div>
                     <div class="description-banner left" num="2">
-                        <h3><a href="">Expositores</a></h3>
+                        <h3><a href="expositores">Expositores</a></h3>
                         <p>
                             <span>PERU BANKING & FINANCE DAY 2012</span>
                             Participarán directivos y gerentes de destacadas empresas del sistema financiero peruano e internacional, así como las principales autoridades del Gobierno en materia económica.
                         </p>
-                        <a href="#" class="more">Más info</a>
+                        <a href="expositores" class="more">Más info</a>
                     </div>
                     <div class="description-banner left" num="3">
-                        <h3><a href="">Presentaciones</a></h3>
+                        <h3><a href="presentaciones">Presentaciones</a></h3>
                         <p>
                             <span>PERU BANKING & FINANCE DAY 2012</span>
                             Usted podrá acceder a las presentaciones de las ponencias de este evento. Inscríbase aqui.
                         </p>
-                        <a href="#" class="more">Más info</a>
+                        <a href="presentaciones" class="more">Más info</a>
                     </div>
                     <div class="description-banner left" num="4">
-                        <h3><a href="">Sponsors</a></h3>
+                        <h3><a href="sponsors">Sponsors</a></h3>
                         <p>
                             <span>PERU BANKING & FINANCE DAY 2012</span>
                             Este seminario internacional contará con el auspicio de empresas líderes en su sector...
                         </p>
-                        <a href="#" class="more">Más info</a>
+                        <a href="sponsors" class="more">Más info</a>
                     </div>
                 </div>
                 <div class="large-menu">
